@@ -33,6 +33,6 @@
 
 Данные находятся в трёх файлах:
 
-gold_industry_train.csv — обучающая выборка;
-gold_industry_test.csv — тестовая выборка;
-gold_industry_full.csv — исходные данные.
+- gold_industry_train.csv — обучающая выборка;
+- gold_industry_test.csv — тестовая выборка;
+- gold_industry_full.csv — исходные данные.
