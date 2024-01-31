@@ -30,3 +30,9 @@
 - fluid levels — уровень жидкости
 - feed size — размер гранул сырья
 - feed rate — скорость подачи
+
+Данные находятся в трёх файлах:
+
+gold_industry_train.csv — обучающая выборка;
+gold_industry_test.csv — тестовая выборка;
+gold_industry_full.csv — исходные данные.
